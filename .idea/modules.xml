@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo_Adapter/Demo_Adapter.iml" filepath="$PROJECT_DIR$/Demo_Adapter/Demo_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2_Structural-Design-Pattern.iml" filepath="$PROJECT_DIR$/MD2_Structural-Design-Pattern.iml" />
+    </modules>
+  </component>
+</project>
